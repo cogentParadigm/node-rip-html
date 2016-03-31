@@ -1,0 +1,11 @@
+{
+  "name": "rip-html",
+  "version": "1.0.0",
+  "bin": {
+    "rip-html": "bin/rip-html.js"
+  },
+  "dependencies": {
+    "node-fs": "^0.1.7",
+    "simplecrawler": "^0.6.2"
+  }
+}
